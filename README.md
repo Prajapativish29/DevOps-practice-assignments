@@ -36,7 +36,7 @@ Set read-only permissions: chmod 444 secure.txt
 Set a variable: export MY_VAR="Hello, Linux!"
 
 
- Python Assignments
+ #Python Assignments
  1. Grade Checker
 A simple program that takes a score as input and prints the grade based on the following criteria:
 
